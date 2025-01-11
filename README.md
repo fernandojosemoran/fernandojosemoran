@@ -11,8 +11,13 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3>Me encanta programar, crear cosas, resolver problemas desafiantes</h3>
+<h3 align="start">Lo que me encanta</h3>
   <ul>
+    <li>Resolver problemas desafiantes.</li>
+    <li>Ayudar a otros con lo que he aprendido.</li>
+    <li>Hablar de temas de tecnologias.</li>
+    <li>Aprender de los demas.</li>
+    <li>Aprender cosas nuevas.</li>
     <li>😃 Constantemente estoy aprendiendo y mejorando lo ya aprendido de <strong>react, next, angular, django, express</strong></li>
   </ul>
 
