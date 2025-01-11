@@ -12,7 +12,8 @@
 <!-- ABOUT YOU -->
 <hr>
 
-<h2 align="start">Lo que me encanta</h2>
+<div align="center">
+  <h2 align="start">Lo que me encanta</h2>
   <ul align="start">
     <li>Resolver problemas desafiantes.</li>
     <li>Ayudar a otros con lo que he aprendido.</li>
@@ -21,6 +22,7 @@
     <li>Aprender cosas nuevas.</li>
     <li>😃 Constantemente estoy aprendiendo y mejorando lo ya aprendido de <strong>react, next, angular, django, express</strong></li>
   </ul>
+</div>
 
 <!-- CONNECTION -->
 <hr>      
