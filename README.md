@@ -11,8 +11,8 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="start">Lo que me encanta</h3>
-  <ul>
+<h3>Lo que me encanta</h3>
+  <ul align="start">
     <li>Resolver problemas desafiantes.</li>
     <li>Ayudar a otros con lo que he aprendido.</li>
     <li>Hablar de temas de tecnologias.</li>
