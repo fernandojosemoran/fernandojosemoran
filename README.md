@@ -13,8 +13,8 @@
 <hr>
 
 <div align="center">
-  <h2 align="start">Lo que me encanta</h2>
-  <ul align="start">
+  <h2>Lo que me encanta</h2>
+  <ul>
     <li>Resolver problemas desafiantes.</li>
     <li>Ayudar a otros con lo que he aprendido.</li>
     <li>Hablar de temas de tecnologias.</li>
