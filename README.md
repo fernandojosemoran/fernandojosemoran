@@ -20,11 +20,16 @@
 <!-- CONNECTION -->
 <hr>      
 <h3 align="center">Puedes contactarme de las siguientes formas</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
-</p>
+<ul align="center">
+  <li>[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)</li>
+  <li>[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)</li>
+  <li>[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)</li>
+  <li>[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)</li>
+  <li>[![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma)</li>
+  <li>[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)</li>
+  <li>[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)</li>
+  <li>[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)</li>
+</ul>
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
