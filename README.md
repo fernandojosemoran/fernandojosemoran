@@ -13,16 +13,14 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">Me encanta programar, crear cosas, resolver problemas desafiantes</h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
+    <li>😃 Constantemente estoy aprendiendo y mejorando lo ya aprendido de <strong>react, next, angular, django, express</strong></li>
   </ul>
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Puedes contactarme de las siguientes formas</h3>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
