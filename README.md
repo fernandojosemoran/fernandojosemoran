@@ -1,6 +1,5 @@
 
-  ![Welcome to my profile](https://github.com/fernandojosemoran/fernandojosemoran/blob/main/banner-github.png
-?raw=true)
+  ![Welcome to my profile](https://github.com/fernandojosemoran/fernandojosemoran/blob/main/banner-github.png?raw=true)
   
 
 <hr>
