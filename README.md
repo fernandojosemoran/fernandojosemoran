@@ -59,11 +59,19 @@
     </a>
     <a align="right">
       <p>&nbsp;
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=fernandojosemoran&show_icons=true&theme=dark&locale=es" alt="fernandojosemoran" />
       </p>
     </a>  
   </p>
 </p>
+</div>
+
+<div>
+  ## Mis proyectos principales
+
+  [![Marketing agency project](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=marketing-agency&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
+  [![heroes app](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=HeroesApp-Angular&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
+  [![palette generator](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=palette-generato&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
 </div>
 
 <hr>
