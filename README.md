@@ -53,7 +53,7 @@
     <a align="left">
       <p>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandojosemoran&show_icons=true&theme=dark&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="fernandojosemoran" />
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandojosemoran&show_icons=true&theme=dark&locale=es&hide=jupyter%20notebook,html,powershell,visual%20basic%20.net,tsql,mdx,&langs_count=8" alt="fernandojosemoran" />
       </p>
     </a>
     <a align="right">
@@ -64,12 +64,11 @@
   </p>
 </div>
 
-<hr>
-
 <!-- GITHUB PROJECTS -->
-<h2>Mis proyectos principales</h2>
 
-<div align="center">
+<div align="center" style="display: block;">
+
+  <h2>Mis proyectos principales</h2>
 
   [![Marketing agency project](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=marketing-agency&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
   [![heroes app](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=HeroesApp-Angular&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
