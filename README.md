@@ -65,7 +65,9 @@
 </div>
 
 <!-- GITHUB PROJECTS -->
-
+<br>
+<br>
+<br>
 <div style="display: block;">
   <div align="center">
   <h2>Mis proyectos principales</h2>
@@ -77,7 +79,4 @@
   </div>
 </div>
 
-<br>
-<br>
-<br>
 <br>
