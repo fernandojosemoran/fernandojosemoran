@@ -48,7 +48,6 @@
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
-<p>
   <h3 align="center">Stats:</h3>
   <p>
     <a align="left">
@@ -63,15 +62,11 @@
       </p>
     </a>  
   </p>
-</p>
 </div>
 
 <hr>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<!-- GITHUB PROJECTS -->
 <div align="center">
   <h2>Mis proyectos principales</h2>
 
