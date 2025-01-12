@@ -68,6 +68,7 @@
 <br>
 <br>
 <br>
+<hr>
 <div style="display: block;">
   <div align="center">
   <h2>Mis proyectos principales</h2>
