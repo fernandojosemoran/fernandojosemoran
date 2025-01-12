@@ -64,20 +64,8 @@
   </p>
 </div>
 
-<!-- GITHUB PROJECTS -->
 <br>
 <br>
 <br>
-<hr>
-<div style="display: block;">
-  <div align="center">
-  <h3>Proyectos principales</h3>
-
-  [![Marketing agency project](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=marketing-agency&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
-  [![heroes app](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=HeroesApp-Angular&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
-  [![palette generator](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=palette-generator&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
-  
-  </div>
-</div>
 
 <br>
