@@ -66,10 +66,11 @@
 </p>
 </div>
 
+<hr>
 <br>
 
-<div>
-  ## Mis proyectos principales
+<div align="center">
+  <h2>Mis proyectos principales</h2>
 
   [![Marketing agency project](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=marketing-agency&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
   [![heroes app](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=HeroesApp-Angular&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
