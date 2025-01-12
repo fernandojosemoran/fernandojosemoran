@@ -76,14 +76,6 @@
   [![palette generator](https://github-readme-stats.vercel.app/api/pin/?username=fernandojosemoran&repo=palette-generator&theme=dark&show_owner=true)](https://github.com/fernandojosemoran/marketing-agency)
 </div>
 
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
