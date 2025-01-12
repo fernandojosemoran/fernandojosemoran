@@ -68,7 +68,10 @@
 
 <hr>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <h2>Mis proyectos principales</h2>
 
